@@ -20,4 +20,4 @@ The input file for the program should follow the following format:
 The program reads this input and writes the output to the standard output. The output consists of a single integer representing the number of distinct tile configurations that cover the given area.
 
 ## Implementation
-The project was prefered be implemented in C++ or C. Submissions in Java/Python were also allowed but not recommended due to potential performance issues. However our prototype in python ended up being fast enough to beat the private tests.
+There was a preference to implement the project in C++ or C. Submissions in Java/Python were also allowed but not recommended due to potential performance issues. However our prototype in python ended up being fast enough to beat the private tests.
